@@ -1,0 +1,3972 @@
+{
+  "input": "Python Developer with 1 years experience",
+  "output": {
+    "role": "Python Developer",
+    "experience": "1 years",
+    "keywords": [
+      "Python",
+      "Sqlite",
+      "django basics",
+      "rest integration"
+    ]
+  }
+}{
+  "input": "Operations Manager with 8 years experience",
+  "output": {
+    "role": "Operations Manager",
+    "experience": "8 years",
+    "keywords": [
+      "system automation",
+      "infrastructure monitoring",
+      "cloud tools",
+      "process optimization"
+    ]
+  }
+}{
+  "input": "DevOps Engineer with 1 years experience",
+  "output": {
+    "role": "DevOps Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "GIT",
+      "Linux",
+      "Docker",
+      "basic ci/cd"
+    ]
+  }
+}{
+  "input": "Java Developer with 1 years experience",
+  "output": {
+    "role": "Java Developer",
+    "experience": "1 years",
+    "keywords": [
+      "Hibernate",
+      "Java",
+      "SQL",
+      "spring basics"
+    ]
+  }
+}{
+  "input": "Java Developer with 2 years experience",
+  "output": {
+    "role": "Java Developer",
+    "experience": "2 years",
+    "keywords": [
+      "Java",
+      "Hibernate",
+      "spring basics",
+      "sql"
+    ]
+  }
+}{
+  "input": "Java Developer with 8 years experience",
+  "output": {
+    "role": "Java Developer",
+    "experience": "8 years",
+    "keywords": [
+      "microservices",
+      "distributed systems",
+      "system design",
+      "cloud deployment"
+    ]
+  }
+}{
+  "input": "Jr. Java Developer with 1 years experience",
+  "output": {
+    "role": "Jr. Java Developer",
+    "experience": "1 years",
+    "keywords": [
+      "Java",
+      "junit",
+      "jdbc",
+      "basic spring"
+    ]
+  }
+}{
+  "input": "Data Science Consultant with 1 years experience",
+  "output": {
+    "role": "Data Science Consultant",
+    "experience": "1 years",
+    "keywords": [
+      "Python",
+      "numpy",
+      "eda",
+      "sql"
+    ]
+  }
+}{
+  "input": "Python Developer/analyst with 1 years experience",
+  "output": {
+    "role": "Python Developer/analyst",
+    "experience": "1 years",
+    "keywords": [
+      "Python",
+      "pandas",
+      "matplotlib",
+      "basic sql"
+    ]
+  }
+}{
+  "input": "Project Manager with 11 years experience",
+  "output": {
+    "role": "Project Manager",
+    "experience": "11 years",
+    "keywords": [
+      "system oversight",
+      "architecture understanding",
+      "deployment planning",
+      "release pipelines"
+    ]
+  }
+}{
+  "input": "Cloud Operations Architect (DevOps) with 1 years experience",
+  "output": {
+    "role": "Cloud Operations Architect (DevOps)",
+    "experience": "1 years",
+    "keywords": [
+      "docker",
+      "linux",
+      "git",
+      "basic ci/cd"
+    ]
+  }
+}{
+  "input": "Machine Learning Engineer Intern with 1 years experience",
+  "output": {
+    "role": "Machine Learning Engineer Intern",
+    "experience": "1 years",
+    "keywords": [
+      "Python",
+      "numpy",
+      "pandas",
+      "basic ml models"
+    ]
+  }
+}{
+  "input": "Software Testing & Automation Engineer with 8 years experience",
+  "output": {
+    "role": "Software Testing & Automation Engineer",
+    "experience": "8 years",
+    "keywords": [
+      "framework design",
+      "performance testing",
+      "ci automation",
+      "scalable tests"
+    ]
+  }
+}{
+  "input": "Java Developer with 3 years experience",
+  "output": {
+    "role": "Java Developer",
+    "experience": "3 years",
+    "keywords": [
+      "spring boot",
+      "rest apis",
+      "junit",
+      "kafka"
+    ]
+  }
+}{
+  "input": "Senior Business Analyst - RPA with 6 years experience",
+  "output": {
+    "role": "Senior Business Analyst - RPA",
+    "experience": "6 years",
+    "keywords": [
+      "automation architecture",
+      "rpa scaling",
+      "cloud rpa",
+      "advanced workflows"
+    ]
+  }
+}{
+  "input": "Python RESTful API Developer with 14 years experience",
+  "output": {
+    "role": "Python RESTful API Developer",
+    "experience": "14 years",
+    "keywords": [
+      "microservices",
+      "load balancing",
+      "cloud deployments",
+      "api optimization"
+    ]
+  }
+}{
+  "input": "SAP Technical Architect with 6 years experience",
+  "output": {
+    "role": "SAP Technical Architect",
+    "experience": "6 years",
+    "keywords": [
+      "sap landscape design",
+      "performance tuning",
+      "cloud integration",
+      "architecture planning"
+    ]
+  }
+}{
+  "input": "Project Manager with 14 years experience",
+  "output": {
+    "role": "Project Manager",
+    "experience": "14 years",
+    "keywords": [
+      "system oversight",
+      "architecture understanding",
+      "deployment planning",
+      "release pipelines"
+    ]
+  }
+}{
+  "input": "Network Security Engineer with 7 years experience",
+  "output": {
+    "role": "Network Security Engineer",
+    "experience": "7 years",
+    "keywords": [
+      "network hardening",
+      "siem integration",
+      "advanced firewalling",
+      "security architecture"
+    ]
+  }
+}{
+  "input": "Database Administrator with 9 years experience",
+  "output": {
+    "role": "Database Administrator",
+    "experience": "9 years",
+    "keywords": [
+      "sharding",
+      "db security",
+      "disaster recovery",
+      "high availability"
+    ]
+  }
+}{
+  "input": "Network and Security Engineer with 1 years experience",
+  "output": {
+    "role": "Network and Security Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "subnetting",
+      "firewalls",
+      "routing basics",
+      "linux networking"
+    ]
+  }
+}{
+  "input": "Python Developer with 3 years experience",
+  "output": {
+    "role": "Python Developer",
+    "experience": "3 years",
+    "keywords": [
+      "PostgreSQL",
+      "django orm",
+      "asgi",
+      "celery"
+    ]
+  }
+}{
+  "input": "Data Scientist with 1 years experience",
+  "output": {
+    "role": "Data Scientist",
+    "experience": "1 years",
+    "keywords": [
+      "Python",
+      "pandas",
+      "scikit-learn",
+      "data cleaning"
+    ]
+  }
+}{
+  "input": "Java Web Developer with 1 years experience",
+  "output": {
+    "role": "Java Web Developer",
+    "experience": "1 years",
+    "keywords": [
+      "Java",
+      "JSP",
+      "servlets",
+      "mysql"
+    ]
+  }
+}{
+  "input": "Network Security Engineer with 1 years experience",
+  "output": {
+    "role": "Network Security Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "vlan",
+      "access lists",
+      "tcp/ip basics",
+      "wireshark"
+    ]
+  }
+}{
+  "input": "Python RESTful API developer with 1 years experience",
+  "output": {
+    "role": "Python RESTful API developer",
+    "experience": "1 years",
+    "keywords": [
+      "Python",
+      "Flask",
+      "json serialization",
+      "sqlite"
+    ]
+  }
+}{
+  "input": "Adjunct Faculty & Data Scientist with 9 years experience",
+  "output": {
+    "role": "Adjunct Faculty & Data Scientist",
+    "experience": "9 years",
+    "keywords": [
+      "machine learning pipelines",
+      "model deployment",
+      "data warehousing",
+      "deep learning"
+    ]
+  }
+}{
+  "input": "Electrical Engineer with 3 years experience",
+  "output": {
+    "role": "Electrical Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "fpga",
+      "embedded c",
+      "signal processing",
+      "simulation tools"
+    ]
+  }
+}{
+  "input": "Python API Developer with 14 years experience",
+  "output": {
+    "role": "Python API Developer",
+    "experience": "14 years",
+    "keywords": [
+      "microservices",
+      "scalable apis",
+      "cloud deployments",
+      "performance tuning"
+    ]
+  }
+}{
+  "input": "Data Scientist with 9 years experience",
+  "output": {
+    "role": "Data Scientist",
+    "experience": "9 years",
+    "keywords": [
+      "ml architecture",
+      "deep learning",
+      "pipeline automation",
+      "generative ai"
+    ]
+  }
+}{
+  "input": "Python Developer with 4 years experience",
+  "output": {
+    "role": "Python Developer",
+    "experience": "4 years",
+    "keywords": [
+      "PostgreSQL",
+      "django orm",
+      "asgi",
+      "celery"
+    ]
+  }
+}{
+  "input": "Python Developer with 2 years experience",
+  "output": {
+    "role": "Python Developer",
+    "experience": "2 years",
+    "keywords": [
+      "Python",
+      "django basics",
+      "sqlite",
+      "rest integration"
+    ]
+  }
+}{
+  "input": "Python Developer with 6 years experience",
+  "output": {
+    "role": "Python Developer",
+    "experience": "6 years",
+    "keywords": [
+      "distributed tasks",
+      "cloud packaging",
+      "scalable backend",
+      "system design"
+    ]
+  }
+}{
+  "input": "Python Developer with 5 years experience",
+  "output": {
+    "role": "Python Developer",
+    "experience": "5 years",
+    "keywords": [
+      "PostgreSQL",
+      "django orm",
+      "asgi",
+      "celery"
+    ]
+  }
+}{
+  "input": "Java Developer with 4 years experience",
+  "output": {
+    "role": "Java Developer",
+    "experience": "4 years",
+    "keywords": [
+      "spring boot",
+      "rest apis",
+      "junit",
+      "kafka"
+    ]
+  }
+}{
+  "input": "Java Developer with 6 years experience",
+  "output": {
+    "role": "Java Developer",
+    "experience": "6 years",
+    "keywords": [
+      "microservices",
+      "distributed systems",
+      "system design",
+      "cloud deployment"
+    ]
+  }
+}{
+  "input": "Java Developer with 7 years experience",
+  "output": {
+    "role": "Java Developer",
+    "experience": "7 years",
+    "keywords": [
+      "microservices",
+      "distributed systems",
+      "system design",
+      "cloud deployment"
+    ]
+  }
+}{
+  "input": "Java Developer with 5 years experience",
+  "output": {
+    "role": "Java Developer",
+    "experience": "5 years",
+    "keywords": [
+      "spring boot",
+      "rest apis",
+      "junit",
+      "kafka"
+    ]
+  }
+}{
+  "input": "Javascript Developer with 2 years experience",
+  "output": {
+    "role": "Javascript Developer",
+    "experience": "2 years",
+    "keywords": [
+      "JavaScript",
+      "html/css",
+      "dom manipulation",
+      "fetch api"
+    ]
+  }
+}{
+  "input": "Javascript Developer with 3 years experience",
+  "output": {
+    "role": "Javascript Developer",
+    "experience": "3 years",
+    "keywords": [
+      "React",
+      "typescript",
+      "webpack",
+      "api integration"
+    ]
+  }
+}{
+  "input": "Javascript Developer with 5 years experience",
+  "output": {
+    "role": "Javascript Developer",
+    "experience": "5 years",
+    "keywords": [
+      "React",
+      "typescript",
+      "webpack",
+      "api integration"
+    ]
+  }
+}{
+  "input": "Javascript Developer with 4 years experience",
+  "output": {
+    "role": "Javascript Developer",
+    "experience": "4 years",
+    "keywords": [
+      "React",
+      "typescript",
+      "webpack",
+      "api integration"
+    ]
+  }
+}{
+  "input": "Javascript Developer with 1 years experience",
+  "output": {
+    "role": "Javascript Developer",
+    "experience": "1 years",
+    "keywords": [
+      "JavaScript",
+      "html/css",
+      "dom manipulation",
+      "fetch api"
+    ]
+  }
+}{
+  "input": "Javascript Developer with 6 years experience",
+  "output": {
+    "role": "Javascript Developer",
+    "experience": "6 years",
+    "keywords": [
+      "frontend architecture",
+      "performance tuning",
+      "micro frontends",
+      "state management"
+    ]
+  }
+}{
+  "input": "Full Stack Developer with 2 years experience",
+  "output": {
+    "role": "Full Stack Developer",
+    "experience": "2 years",
+    "keywords": [
+      "JavaScript",
+      "Node.js",
+      "html/css",
+      "sql"
+    ]
+  }
+}{
+  "input": "Full Stack Developer with 3 years experience",
+  "output": {
+    "role": "Full Stack Developer",
+    "experience": "3 years",
+    "keywords": [
+      "React",
+      "PostgreSQL",
+      "express",
+      "rest apis"
+    ]
+  }
+}{
+  "input": "Full Stack Developer with 6 years experience",
+  "output": {
+    "role": "Full Stack Developer",
+    "experience": "6 years",
+    "keywords": [
+      "system design",
+      "microservices",
+      "cloud deployments",
+      "scalable backend"
+    ]
+  }
+}{
+  "input": "Full Stack Developer with 4 years experience",
+  "output": {
+    "role": "Full Stack Developer",
+    "experience": "4 years",
+    "keywords": [
+      "React",
+      "PostgreSQL",
+      "express",
+      "rest apis"
+    ]
+  }
+}{
+  "input": "Full Stack Developer with 1 years experience",
+  "output": {
+    "role": "Full Stack Developer",
+    "experience": "1 years",
+    "keywords": [
+      "JavaScript",
+      "Node.js",
+      "html/css",
+      "sql"
+    ]
+  }
+}{
+  "input": "Full Stack Developer with 5 years experience",
+  "output": {
+    "role": "Full Stack Developer",
+    "experience": "5 years",
+    "keywords": [
+      "React",
+      "PostgreSQL",
+      "express",
+      "rest apis"
+    ]
+  }
+}{
+  "input": "Backend Developer with 3 years experience",
+  "output": {
+    "role": "Backend Developer",
+    "experience": "3 years",
+    "keywords": [
+      "Redis",
+      "PostgreSQL",
+      "api authentication",
+      "fastapi"
+    ]
+  }
+}{
+  "input": "Backend Developer with 1 years experience",
+  "output": {
+    "role": "Backend Developer",
+    "experience": "1 years",
+    "keywords": [
+      "Python",
+      "django basics",
+      "sql",
+      "rest apis"
+    ]
+  }
+}{
+  "input": "Backend Developer with 4 years experience",
+  "output": {
+    "role": "Backend Developer",
+    "experience": "4 years",
+    "keywords": [
+      "PostgreSQL",
+      "Redis",
+      "api authentication",
+      "fastapi"
+    ]
+  }
+}{
+  "input": "Backend Developer with 6 years experience",
+  "output": {
+    "role": "Backend Developer",
+    "experience": "6 years",
+    "keywords": [
+      "system design",
+      "scalability patterns",
+      "microservices",
+      "docker orchestration"
+    ]
+  }
+}{
+  "input": "Backend Developer with 5 years experience",
+  "output": {
+    "role": "Backend Developer",
+    "experience": "5 years",
+    "keywords": [
+      "PostgreSQL",
+      "Redis",
+      "api authentication",
+      "fastapi"
+    ]
+  }
+}{
+  "input": "Backend Developer with 2 years experience",
+  "output": {
+    "role": "Backend Developer",
+    "experience": "2 years",
+    "keywords": [
+      "Python",
+      "django basics",
+      "sql",
+      "rest apis"
+    ]
+  }
+}{
+  "input": "Backend Developer with 7 years experience",
+  "output": {
+    "role": "Backend Developer",
+    "experience": "7 years",
+    "keywords": [
+      "system design",
+      "scalability patterns",
+      "microservices",
+      "docker orchestration"
+    ]
+  }
+}{
+  "input": "Frontend Developer with 6 years experience",
+  "output": {
+    "role": "Frontend Developer",
+    "experience": "6 years",
+    "keywords": [
+      "frontend optimization",
+      "micro frontends",
+      "scalable design systems",
+      "performance profiling"
+    ]
+  }
+}{
+  "input": "Frontend Developer with 2 years experience",
+  "output": {
+    "role": "Frontend Developer",
+    "experience": "2 years",
+    "keywords": [
+      "JavaScript",
+      "html",
+      "css",
+      "basic react"
+    ]
+  }
+}{
+  "input": "Frontend Developer with 3 years experience",
+  "output": {
+    "role": "Frontend Developer",
+    "experience": "3 years",
+    "keywords": [
+      "redux",
+      "typescript",
+      "api integration",
+      "component architecture"
+    ]
+  }
+}{
+  "input": "Frontend Developer with 5 years experience",
+  "output": {
+    "role": "Frontend Developer",
+    "experience": "5 years",
+    "keywords": [
+      "redux",
+      "typescript",
+      "api integration",
+      "component architecture"
+    ]
+  }
+}{
+  "input": "Frontend Developer with 4 years experience",
+  "output": {
+    "role": "Frontend Developer",
+    "experience": "4 years",
+    "keywords": [
+      "redux",
+      "typescript",
+      "api integration",
+      "component architecture"
+    ]
+  }
+}{
+  "input": "Frontend Developer with 1 years experience",
+  "output": {
+    "role": "Frontend Developer",
+    "experience": "1 years",
+    "keywords": [
+      "JavaScript",
+      "html",
+      "css",
+      "basic react"
+    ]
+  }
+}{
+  "input": "Software Engineer with 2 years experience",
+  "output": {
+    "role": "Software Engineer",
+    "experience": "2 years",
+    "keywords": [
+      "Python",
+      "JavaScript",
+      "rest apis",
+      "sql"
+    ]
+  }
+}{
+  "input": "Software Engineer with 4 years experience",
+  "output": {
+    "role": "Software Engineer",
+    "experience": "4 years",
+    "keywords": [
+      "Node.js",
+      "Django",
+      "React",
+      "PostgreSQL"
+    ]
+  }
+}{
+  "input": "Software Engineer with 5 years experience",
+  "output": {
+    "role": "Software Engineer",
+    "experience": "5 years",
+    "keywords": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "Django"
+    ]
+  }
+}{
+  "input": "Software Engineer with 6 years experience",
+  "output": {
+    "role": "Software Engineer",
+    "experience": "6 years",
+    "keywords": [
+      "system design",
+      "microservices",
+      "cloud deployments",
+      "optimization"
+    ]
+  }
+}{
+  "input": "Software Engineer with 3 years experience",
+  "output": {
+    "role": "Software Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "Django",
+      "PostgreSQL",
+      "Node.js",
+      "React"
+    ]
+  }
+}{
+  "input": "Software Engineer with 7 years experience",
+  "output": {
+    "role": "Software Engineer",
+    "experience": "7 years",
+    "keywords": [
+      "system design",
+      "microservices",
+      "cloud deployments",
+      "optimization"
+    ]
+  }
+}{
+  "input": "Software Engineer with 1 years experience",
+  "output": {
+    "role": "Software Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "Python",
+      "JavaScript",
+      "rest apis",
+      "sql"
+    ]
+  }
+}{
+  "input": "Devops Engineer with 5 years experience",
+  "output": {
+    "role": "Devops Engineer",
+    "experience": "5 years",
+    "keywords": [
+      "Kubernetes",
+      "Jenkins",
+      "aws ec2",
+      "terraform"
+    ]
+  }
+}{
+  "input": "Devops Engineer with 6 years experience",
+  "output": {
+    "role": "Devops Engineer",
+    "experience": "6 years",
+    "keywords": [
+      "scalable ci pipelines",
+      "infrastructure design",
+      "multi-cloud orchestration",
+      "monitoring setup"
+    ]
+  }
+}{
+  "input": "Devops Engineer with 4 years experience",
+  "output": {
+    "role": "Devops Engineer",
+    "experience": "4 years",
+    "keywords": [
+      "Kubernetes",
+      "Jenkins",
+      "aws ec2",
+      "terraform"
+    ]
+  }
+}{
+  "input": "Devops Engineer with 3 years experience",
+  "output": {
+    "role": "Devops Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "Kubernetes",
+      "Jenkins",
+      "aws ec2",
+      "terraform"
+    ]
+  }
+}{
+  "input": "Devops Engineer with 2 years experience",
+  "output": {
+    "role": "Devops Engineer",
+    "experience": "2 years",
+    "keywords": [
+      "Git",
+      "Docker",
+      "linux",
+      "basic ci/cd"
+    ]
+  }
+}{
+  "input": "Devops Engineer with 7 years experience",
+  "output": {
+    "role": "Devops Engineer",
+    "experience": "7 years",
+    "keywords": [
+      "scalable ci pipelines",
+      "infrastructure design",
+      "multi-cloud orchestration",
+      "monitoring setup"
+    ]
+  }
+}{
+  "input": "Cloud Engineer with 4 years experience",
+  "output": {
+    "role": "Cloud Engineer",
+    "experience": "4 years",
+    "keywords": [
+      "lambda",
+      "cloudformation",
+      "load balancers",
+      "vpc networking"
+    ]
+  }
+}{
+  "input": "Cloud Engineer with 3 years experience",
+  "output": {
+    "role": "Cloud Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "lambda",
+      "cloudformation",
+      "load balancers",
+      "vpc networking"
+    ]
+  }
+}{
+  "input": "Cloud Engineer with 6 years experience",
+  "output": {
+    "role": "Cloud Engineer",
+    "experience": "6 years",
+    "keywords": [
+      "multi-cloud design",
+      "infrastructure automation",
+      "kubernetes clusters",
+      "cost optimization"
+    ]
+  }
+}{
+  "input": "Cloud Engineer with 5 years experience",
+  "output": {
+    "role": "Cloud Engineer",
+    "experience": "5 years",
+    "keywords": [
+      "lambda",
+      "cloudformation",
+      "load balancers",
+      "vpc networking"
+    ]
+  }
+}{
+  "input": "Cloud Engineer with 1 years experience",
+  "output": {
+    "role": "Cloud Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "aws ec2",
+      "s3",
+      "linux",
+      "iam basics"
+    ]
+  }
+}{
+  "input": "Cloud Engineer with 2 years experience",
+  "output": {
+    "role": "Cloud Engineer",
+    "experience": "2 years",
+    "keywords": [
+      "aws ec2",
+      "s3",
+      "linux",
+      "iam basics"
+    ]
+  }
+}{
+  "input": "React Developer with 3 years experience",
+  "output": {
+    "role": "React Developer",
+    "experience": "3 years",
+    "keywords": [
+      "redux",
+      "component architecture",
+      "typescript",
+      "api integration"
+    ]
+  }
+}{
+  "input": "React Developer with 5 years experience",
+  "output": {
+    "role": "React Developer",
+    "experience": "5 years",
+    "keywords": [
+      "redux",
+      "component architecture",
+      "typescript",
+      "api integration"
+    ]
+  }
+}{
+  "input": "React Developer with 1 years experience",
+  "output": {
+    "role": "React Developer",
+    "experience": "1 years",
+    "keywords": [
+      "JavaScript",
+      "react basics",
+      "html/css",
+      "axios"
+    ]
+  }
+}{
+  "input": "React Developer with 2 years experience",
+  "output": {
+    "role": "React Developer",
+    "experience": "2 years",
+    "keywords": [
+      "JavaScript",
+      "react basics",
+      "html/css",
+      "axios"
+    ]
+  }
+}{
+  "input": "React Developer with 4 years experience",
+  "output": {
+    "role": "React Developer",
+    "experience": "4 years",
+    "keywords": [
+      "redux",
+      "component architecture",
+      "typescript",
+      "api integration"
+    ]
+  }
+}{
+  "input": "React Developer with 6 years experience",
+  "output": {
+    "role": "React Developer",
+    "experience": "6 years",
+    "keywords": [
+      "scalable frontend",
+      "performance tuning",
+      "micro frontends",
+      "state optimization"
+    ]
+  }
+}{
+  "input": "React Developer with 7 years experience",
+  "output": {
+    "role": "React Developer",
+    "experience": "7 years",
+    "keywords": [
+      "scalable frontend",
+      "performance tuning",
+      "micro frontends",
+      "state optimization"
+    ]
+  }
+}{
+  "input": "Angular Developer with 1 years experience",
+  "output": {
+    "role": "Angular Developer",
+    "experience": "1 years",
+    "keywords": [
+      "angular basics",
+      "typescript",
+      "html/css",
+      "rxjs"
+    ]
+  }
+}{
+  "input": "Angular Developer with 5 years experience",
+  "output": {
+    "role": "Angular Developer",
+    "experience": "5 years",
+    "keywords": [
+      "angular routing",
+      "ngrx",
+      "rest integration",
+      "form builder"
+    ]
+  }
+}{
+  "input": "Angular Developer with 6 years experience",
+  "output": {
+    "role": "Angular Developer",
+    "experience": "6 years",
+    "keywords": [
+      "state management",
+      "lazy loading",
+      "architecture patterns",
+      "micro frontends"
+    ]
+  }
+}{
+  "input": "Angular Developer with 2 years experience",
+  "output": {
+    "role": "Angular Developer",
+    "experience": "2 years",
+    "keywords": [
+      "angular basics",
+      "typescript",
+      "html/css",
+      "rxjs"
+    ]
+  }
+}{
+  "input": "Angular Developer with 3 years experience",
+  "output": {
+    "role": "Angular Developer",
+    "experience": "3 years",
+    "keywords": [
+      "angular routing",
+      "ngrx",
+      "rest integration",
+      "form builder"
+    ]
+  }
+}{
+  "input": "Angular Developer with 4 years experience",
+  "output": {
+    "role": "Angular Developer",
+    "experience": "4 years",
+    "keywords": [
+      "angular routing",
+      "ngrx",
+      "rest integration",
+      "form builder"
+    ]
+  }
+}{
+  "input": "Angular Developer with 7 years experience",
+  "output": {
+    "role": "Angular Developer",
+    "experience": "7 years",
+    "keywords": [
+      "state management",
+      "lazy loading",
+      "architecture patterns",
+      "micro frontends"
+    ]
+  }
+}{
+  "input": "Vue Developer with 2 years experience",
+  "output": {
+    "role": "Vue Developer",
+    "experience": "2 years",
+    "keywords": [
+      "JavaScript",
+      "vue basics",
+      "html/css",
+      "vuex"
+    ]
+  }
+}{
+  "input": "Vue Developer with 5 years experience",
+  "output": {
+    "role": "Vue Developer",
+    "experience": "5 years",
+    "keywords": [
+      "component design",
+      "routing",
+      "api integration",
+      "vuetify"
+    ]
+  }
+}{
+  "input": "Vue Developer with 3 years experience",
+  "output": {
+    "role": "Vue Developer",
+    "experience": "3 years",
+    "keywords": [
+      "component design",
+      "routing",
+      "api integration",
+      "vuetify"
+    ]
+  }
+}{
+  "input": "Vue Developer with 4 years experience",
+  "output": {
+    "role": "Vue Developer",
+    "experience": "4 years",
+    "keywords": [
+      "component design",
+      "routing",
+      "api integration",
+      "vuetify"
+    ]
+  }
+}{
+  "input": "Vue Developer with 6 years experience",
+  "output": {
+    "role": "Vue Developer",
+    "experience": "6 years",
+    "keywords": [
+      "scalable apps",
+      "performance tuning",
+      "micro frontends",
+      "architecture patterns"
+    ]
+  }
+}{
+  "input": "Vue Developer with 1 years experience",
+  "output": {
+    "role": "Vue Developer",
+    "experience": "1 years",
+    "keywords": [
+      "JavaScript",
+      "vue basics",
+      "html/css",
+      "vuex"
+    ]
+  }
+}{
+  "input": "Node.Js Developer with 6 years experience",
+  "output": {
+    "role": "Node.Js Developer",
+    "experience": "6 years",
+    "keywords": [
+      "microservices",
+      "message queues",
+      "scalable server design",
+      "cloud packaging"
+    ]
+  }
+}{
+  "input": "Node.Js Developer with 2 years experience",
+  "output": {
+    "role": "Node.Js Developer",
+    "experience": "2 years",
+    "keywords": [
+      "JavaScript",
+      "Node.js",
+      "express basics",
+      "mongo basics"
+    ]
+  }
+}{
+  "input": "Node.Js Developer with 5 years experience",
+  "output": {
+    "role": "Node.Js Developer",
+    "experience": "5 years",
+    "keywords": [
+      "jwt auth",
+      "redis caching",
+      "rest apis",
+      "typescript"
+    ]
+  }
+}{
+  "input": "Node.Js Developer with 1 years experience",
+  "output": {
+    "role": "Node.Js Developer",
+    "experience": "1 years",
+    "keywords": [
+      "JavaScript",
+      "Node.js",
+      "express basics",
+      "mongo basics"
+    ]
+  }
+}{
+  "input": "Node.Js Developer with 4 years experience",
+  "output": {
+    "role": "Node.Js Developer",
+    "experience": "4 years",
+    "keywords": [
+      "jwt auth",
+      "redis caching",
+      "rest apis",
+      "typescript"
+    ]
+  }
+}{
+  "input": "Node.Js Developer with 3 years experience",
+  "output": {
+    "role": "Node.Js Developer",
+    "experience": "3 years",
+    "keywords": [
+      "jwt auth",
+      "redis caching",
+      "rest apis",
+      "typescript"
+    ]
+  }
+}{
+  "input": "Web Developer with 4 years experience",
+  "output": {
+    "role": "Web Developer",
+    "experience": "4 years",
+    "keywords": [
+      "Node.js",
+      "React",
+      "rest apis",
+      "api integration"
+    ]
+  }
+}{
+  "input": "Web Developer with 2 years experience",
+  "output": {
+    "role": "Web Developer",
+    "experience": "2 years",
+    "keywords": [
+      "JavaScript",
+      "html",
+      "css",
+      "bootstrap"
+    ]
+  }
+}{
+  "input": "Web Developer with 3 years experience",
+  "output": {
+    "role": "Web Developer",
+    "experience": "3 years",
+    "keywords": [
+      "React",
+      "Node.js",
+      "rest apis",
+      "api integration"
+    ]
+  }
+}{
+  "input": "Web Developer with 1 years experience",
+  "output": {
+    "role": "Web Developer",
+    "experience": "1 years",
+    "keywords": [
+      "JavaScript",
+      "html",
+      "css",
+      "bootstrap"
+    ]
+  }
+}{
+  "input": "Web Developer with 6 years experience",
+  "output": {
+    "role": "Web Developer",
+    "experience": "6 years",
+    "keywords": [
+      "frontend optimization",
+      "backend integration",
+      "scalable systems",
+      "deployment pipelines"
+    ]
+  }
+}{
+  "input": "Web Developer with 5 years experience",
+  "output": {
+    "role": "Web Developer",
+    "experience": "5 years",
+    "keywords": [
+      "React",
+      "Node.js",
+      "rest apis",
+      "api integration"
+    ]
+  }
+}{
+  "input": "Web Developer with 7 years experience",
+  "output": {
+    "role": "Web Developer",
+    "experience": "7 years",
+    "keywords": [
+      "frontend optimization",
+      "backend integration",
+      "scalable systems",
+      "deployment pipelines"
+    ]
+  }
+}{
+  "input": "Data Scientist with 5 years experience",
+  "output": {
+    "role": "Data Scientist",
+    "experience": "5 years",
+    "keywords": [
+      "ml algorithms",
+      "model tuning",
+      "feature importance",
+      "xgboost"
+    ]
+  }
+}{
+  "input": "Data Scientist with 2 years experience",
+  "output": {
+    "role": "Data Scientist",
+    "experience": "2 years",
+    "keywords": [
+      "Python",
+      "pandas",
+      "scikit-learn",
+      "data cleaning"
+    ]
+  }
+}{
+  "input": "Data Scientist with 6 years experience",
+  "output": {
+    "role": "Data Scientist",
+    "experience": "6 years",
+    "keywords": [
+      "ml architecture",
+      "deep learning",
+      "pipeline automation",
+      "generative ai"
+    ]
+  }
+}{
+  "input": "Data Scientist with 3 years experience",
+  "output": {
+    "role": "Data Scientist",
+    "experience": "3 years",
+    "keywords": [
+      "ml algorithms",
+      "model tuning",
+      "feature importance",
+      "xgboost"
+    ]
+  }
+}{
+  "input": "Data Scientist with 4 years experience",
+  "output": {
+    "role": "Data Scientist",
+    "experience": "4 years",
+    "keywords": [
+      "ml algorithms",
+      "model tuning",
+      "feature importance",
+      "xgboost"
+    ]
+  }
+}{
+  "input": "Data Scientist with 7 years experience",
+  "output": {
+    "role": "Data Scientist",
+    "experience": "7 years",
+    "keywords": [
+      "ml architecture",
+      "deep learning",
+      "pipeline automation",
+      "generative ai"
+    ]
+  }
+}{
+  "input": "Machine Learning Engineer with 2 years experience",
+  "output": {
+    "role": "Machine Learning Engineer",
+    "experience": "2 years",
+    "keywords": [
+      "Python",
+      "numpy",
+      "scikit-learn",
+      "data preprocessing"
+    ]
+  }
+}{
+  "input": "Machine Learning Engineer with 3 years experience",
+  "output": {
+    "role": "Machine Learning Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "pytorch",
+      "tensorflow",
+      "feature engineering",
+      "ml pipelines"
+    ]
+  }
+}{
+  "input": "Machine Learning Engineer with 1 years experience",
+  "output": {
+    "role": "Machine Learning Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "Python",
+      "numpy",
+      "scikit-learn",
+      "data preprocessing"
+    ]
+  }
+}{
+  "input": "Machine Learning Engineer with 6 years experience",
+  "output": {
+    "role": "Machine Learning Engineer",
+    "experience": "6 years",
+    "keywords": [
+      "distributed training",
+      "model optimization",
+      "mlops",
+      "large model tuning"
+    ]
+  }
+}{
+  "input": "Machine Learning Engineer with 4 years experience",
+  "output": {
+    "role": "Machine Learning Engineer",
+    "experience": "4 years",
+    "keywords": [
+      "pytorch",
+      "tensorflow",
+      "feature engineering",
+      "ml pipelines"
+    ]
+  }
+}{
+  "input": "Machine Learning Engineer with 5 years experience",
+  "output": {
+    "role": "Machine Learning Engineer",
+    "experience": "5 years",
+    "keywords": [
+      "pytorch",
+      "tensorflow",
+      "feature engineering",
+      "ml pipelines"
+    ]
+  }
+}{
+  "input": "Ai Engineer with 5 years experience",
+  "output": {
+    "role": "Ai Engineer",
+    "experience": "5 years",
+    "keywords": [
+      "pytorch",
+      "model optimization",
+      "opencv",
+      "transformers"
+    ]
+  }
+}{
+  "input": "Ai Engineer with 3 years experience",
+  "output": {
+    "role": "Ai Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "pytorch",
+      "model optimization",
+      "opencv",
+      "transformers"
+    ]
+  }
+}{
+  "input": "Ai Engineer with 6 years experience",
+  "output": {
+    "role": "Ai Engineer",
+    "experience": "6 years",
+    "keywords": [
+      "distributed training",
+      "model quantization",
+      "ml pipelines",
+      "reinforcement learning"
+    ]
+  }
+}{
+  "input": "Ai Engineer with 2 years experience",
+  "output": {
+    "role": "Ai Engineer",
+    "experience": "2 years",
+    "keywords": [
+      "Python",
+      "numpy",
+      "tensorflow basics",
+      "data preprocessing"
+    ]
+  }
+}{
+  "input": "Ai Engineer with 4 years experience",
+  "output": {
+    "role": "Ai Engineer",
+    "experience": "4 years",
+    "keywords": [
+      "pytorch",
+      "model optimization",
+      "opencv",
+      "transformers"
+    ]
+  }
+}{
+  "input": "Ai Engineer with 1 years experience",
+  "output": {
+    "role": "Ai Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "Python",
+      "numpy",
+      "tensorflow basics",
+      "data preprocessing"
+    ]
+  }
+}{
+  "input": "Ai Engineer with 7 years experience",
+  "output": {
+    "role": "Ai Engineer",
+    "experience": "7 years",
+    "keywords": [
+      "distributed training",
+      "model quantization",
+      "ml pipelines",
+      "reinforcement learning"
+    ]
+  }
+}{
+  "input": "Data Engineer with 2 years experience",
+  "output": {
+    "role": "Data Engineer",
+    "experience": "2 years",
+    "keywords": [
+      "Python",
+      "sql",
+      "pandas",
+      "etl basics"
+    ]
+  }
+}{
+  "input": "Data Engineer with 6 years experience",
+  "output": {
+    "role": "Data Engineer",
+    "experience": "6 years",
+    "keywords": [
+      "distributed systems",
+      "data lake design",
+      "pipeline optimization",
+      "cloud data platforms"
+    ]
+  }
+}{
+  "input": "Data Engineer with 3 years experience",
+  "output": {
+    "role": "Data Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "airflow",
+      "spark",
+      "bigquery",
+      "data modeling"
+    ]
+  }
+}{
+  "input": "Data Engineer with 4 years experience",
+  "output": {
+    "role": "Data Engineer",
+    "experience": "4 years",
+    "keywords": [
+      "airflow",
+      "spark",
+      "bigquery",
+      "data modeling"
+    ]
+  }
+}{
+  "input": "Data Engineer with 5 years experience",
+  "output": {
+    "role": "Data Engineer",
+    "experience": "5 years",
+    "keywords": [
+      "airflow",
+      "spark",
+      "bigquery",
+      "data modeling"
+    ]
+  }
+}{
+  "input": "Data Engineer with 1 years experience",
+  "output": {
+    "role": "Data Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "Python",
+      "sql",
+      "pandas",
+      "etl basics"
+    ]
+  }
+}{
+  "input": "Data Engineer with 7 years experience",
+  "output": {
+    "role": "Data Engineer",
+    "experience": "7 years",
+    "keywords": [
+      "distributed systems",
+      "data lake design",
+      "pipeline optimization",
+      "cloud data platforms"
+    ]
+  }
+}{
+  "input": "Mlops Engineer with 2 years experience",
+  "output": {
+    "role": "Mlops Engineer",
+    "experience": "2 years",
+    "keywords": [
+      "Python",
+      "Docker",
+      "Git",
+      "linux"
+    ]
+  }
+}{
+  "input": "Mlops Engineer with 3 years experience",
+  "output": {
+    "role": "Mlops Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "Kubernetes",
+      "Jenkins",
+      "airflow",
+      "mlflow"
+    ]
+  }
+}{
+  "input": "Mlops Engineer with 5 years experience",
+  "output": {
+    "role": "Mlops Engineer",
+    "experience": "5 years",
+    "keywords": [
+      "Kubernetes",
+      "Jenkins",
+      "airflow",
+      "mlflow"
+    ]
+  }
+}{
+  "input": "Mlops Engineer with 1 years experience",
+  "output": {
+    "role": "Mlops Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "Python",
+      "Docker",
+      "Git",
+      "linux"
+    ]
+  }
+}{
+  "input": "Mlops Engineer with 4 years experience",
+  "output": {
+    "role": "Mlops Engineer",
+    "experience": "4 years",
+    "keywords": [
+      "Kubernetes",
+      "Jenkins",
+      "airflow",
+      "mlflow"
+    ]
+  }
+}{
+  "input": "Mlops Engineer with 6 years experience",
+  "output": {
+    "role": "Mlops Engineer",
+    "experience": "6 years",
+    "keywords": [
+      "ml pipelines",
+      "distributed training",
+      "cloud ml platforms",
+      "model monitoring"
+    ]
+  }
+}{
+  "input": "Mlops Engineer with 7 years experience",
+  "output": {
+    "role": "Mlops Engineer",
+    "experience": "7 years",
+    "keywords": [
+      "ml pipelines",
+      "distributed training",
+      "cloud ml platforms",
+      "model monitoring"
+    ]
+  }
+}{
+  "input": "Deep Learning Engineer with 5 years experience",
+  "output": {
+    "role": "Deep Learning Engineer",
+    "experience": "5 years",
+    "keywords": [
+      "pytorch",
+      "transformers",
+      "training optimization",
+      "rnn models"
+    ]
+  }
+}{
+  "input": "Deep Learning Engineer with 3 years experience",
+  "output": {
+    "role": "Deep Learning Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "pytorch",
+      "transformers",import modal
+
+app = modal.App("qwen_lora_inference")
+
+image = (
+    modal.Image.debian_slim()
+    .pip_install(
+        "transformers==4.44.0",
+        "accelerate",
+        "torch",
+        "peft==0.16.0",
+        "bitsandbytes"
+    )
+)
+
+@app.function(
+    image=image,
+    gpu="a10g",
+    volumes={"/model": modal.Volume.from_name("qwen-data")},
+    timeout=600,
+)
+def infer(prompt: str):
+    from transformers import AutoTokenizer, AutoModelForCausalLM, GenerationConfig
+    from peft import PeftModel
+    import torch
+
+    print("Loading base model...")
+    model_name = "Qwen/Qwen2.5-1.5B-Instruct"
+
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+
+    base_model = AutoModelForCausalLM.from_pretrained(
+        model_name,
+        torch_dtype=torch.float16,
+        device_map="auto"
+    )
+
+    print("Loading LoRA adapter...")
+    model = PeftModel.from_pretrained(
+        base_model,
+        "/model/root/output-model"
+    )
+    model = model.to("cuda")
+    model.eval()
+
+    # 🔥 Very strict prompt (short, reduces rambling)
+    system_prompt = (
+        "Return ONLY in this format:\n"
+        "role: <role>\n"
+        "experience: <years>\n"
+        "keywords: <comma-separated keywords>\n"
+        "NO extra text."
+    )
+
+    chat_input = f"{system_prompt}\nINPUT: {prompt}"
+
+    print("Generating output...")
+
+    inputs = tokenizer(chat_input, return_tensors="pt").to("cuda")
+
+    # 🔥 Hard stop string prevents generating multiple answers!
+    gen_cfg = GenerationConfig(
+        max_new_tokens=80,
+        temperature=0.01,
+        top_p=0.9,
+        do_sample=False,
+        stop_strings=["INPUT:"],  # <--- CRITICAL FIX
+    )
+
+    output = model.generate(
+        **inputs,
+        generation_config=gen_cfg
+    )
+
+    result = tokenizer.decode(output[0], skip_special_tokens=True)
+
+    # Remove prompt part
+    if "INPUT:" in result:
+        result = result.split("INPUT:")[0].strip()
+
+    print("\n===== RESULT =====\n")
+    print(result)
+    print("\n==================\n")
+
+      "training optimization",
+      "rnn models"
+    ]
+  }
+}{
+  "input": "Deep Learning Engineer with 6 years experience",
+  "output": {
+    "role": "Deep Learning Engineer",
+    "experience": "6 years",
+    "keywords": [
+      "distributed training",
+      "large model fine-tuning",
+      "mlops integration",
+      "model optimization"
+    ]
+  }
+}{
+  "input": "Deep Learning Engineer with 2 years experience",
+  "output": {
+    "role": "Deep Learning Engineer",
+    "experience": "2 years",
+    "keywords": [
+      "Python",
+      "tensorflow",
+      "numpy",
+      "cnn basics"
+    ]
+  }
+}{
+  "input": "Deep Learning Engineer with 4 years experience",
+  "output": {
+    "role": "Deep Learning Engineer",
+    "experience": "4 years",
+    "keywords": [
+      "pytorch",
+      "transformers",
+      "training optimization",
+      "rnn models"
+    ]
+  }
+}{
+  "input": "Deep Learning Engineer with 1 years experience",
+  "output": {
+    "role": "Deep Learning Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "Python",
+      "tensorflow",
+      "numpy",
+      "cnn basics"
+    ]
+  }
+}{
+  "input": "Deep Learning Engineer with 7 years experience",
+  "output": {
+    "role": "Deep Learning Engineer",
+    "experience": "7 years",
+    "keywords": [
+      "distributed training",
+      "large model fine-tuning",
+      "mlops integration",
+      "model optimization"
+    ]
+  }
+}{
+  "input": "Computer Vision Engineer with 2 years experience",
+  "output": {
+    "role": "Computer Vision Engineer",
+    "experience": "2 years",
+    "keywords": [
+      "Python",
+      "opencv",
+      "numpy",
+      "image preprocessing"
+    ]
+  }
+}{
+  "input": "Computer Vision Engineer with 4 years experience",
+  "output": {
+    "role": "Computer Vision Engineer",
+    "experience": "4 years",
+    "keywords": [
+      "cnn models",
+      "pytorch",
+      "augmentation pipelines",
+      "segmentation"
+    ]
+  }
+}{
+  "input": "Computer Vision Engineer with 5 years experience",
+  "output": {
+    "role": "Computer Vision Engineer",
+    "experience": "5 years",
+    "keywords": [
+      "cnn models",
+      "pytorch",
+      "augmentation pipelines",
+      "segmentation"
+    ]
+  }
+}{
+  "input": "Computer Vision Engineer with 3 years experience",
+  "output": {
+    "role": "Computer Vision Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "cnn models",
+      "pytorch",
+      "augmentation pipelines",
+      "segmentation"
+    ]
+  }
+}{
+  "input": "Computer Vision Engineer with 1 years experience",
+  "output": {
+    "role": "Computer Vision Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "Python",
+      "opencv",
+      "numpy",
+      "image preprocessing"
+    ]
+  }
+}{
+  "input": "Computer Vision Engineer with 6 years experience",
+  "output": {
+    "role": "Computer Vision Engineer",
+    "experience": "6 years",
+    "keywords": [
+      "large vision models",
+      "3d vision",
+      "real-time inference",
+      "edge deployment"
+    ]
+  }
+}{
+  "input": "Nlp Engineer with 1 years experience",
+  "output": {
+    "role": "Nlp Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "Python",
+      "nltk",
+      "regex",
+      "text preprocessing"
+    ]
+  }
+}{
+  "input": "Nlp Engineer with 3 years experience",
+  "output": {
+    "role": "Nlp Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "transformers",
+      "huggingface",
+      "tokenization",
+      "embeddings"
+    ]
+  }
+}{
+  "input": "Nlp Engineer with 2 years experience",
+  "output": {
+    "role": "Nlp Engineer",
+    "experience": "2 years",
+    "keywords": [
+      "Python",
+      "nltk",
+      "regex",
+      "text preprocessing"
+    ]
+  }
+}{
+  "input": "Nlp Engineer with 4 years experience",
+  "output": {
+    "role": "Nlp Engineer",
+    "experience": "4 years",
+    "keywords": [
+      "transformers",
+      "huggingface",
+      "tokenization",
+      "embeddings"
+    ]
+  }
+}{
+  "input": "Nlp Engineer with 5 years experience",
+  "output": {
+    "role": "Nlp Engineer",
+    "experience": "5 years",
+    "keywords": [
+      "transformers",
+      "huggingface",
+      "tokenization",
+      "embeddings"
+    ]
+  }
+}{
+  "input": "Nlp Engineer with 6 years experience",
+  "output": {
+    "role": "Nlp Engineer",
+    "experience": "6 years",
+    "keywords": [
+      "llm fine-tuning",
+      "retrieval pipelines",
+      "model optimization",
+      "deployment systems"
+    ]
+  }
+}{
+  "input": "Ios Developer with 4 years experience",
+  "output": {
+    "role": "Ios Developer",
+    "experience": "4 years",
+    "keywords": [
+      "swiftui",
+      "combine",
+      "core data",
+      "api integration"
+    ]
+  }
+}{
+  "input": "Ios Developer with 3 years experience",
+  "output": {
+    "role": "Ios Developer",
+    "experience": "3 years",
+    "keywords": [
+      "swiftui",
+      "combine",
+      "core data",
+      "api integration"
+    ]
+  }
+}{
+  "input": "Ios Developer with 5 years experience",
+  "output": {
+    "role": "Ios Developer",
+    "experience": "5 years",
+    "keywords": [
+      "swiftui",
+      "combine",
+      "core data",
+      "api integration"
+    ]
+  }
+}{
+  "input": "Ios Developer with 1 years experience",
+  "output": {
+    "role": "Ios Developer",
+    "experience": "1 years",
+    "keywords": [
+      "Swift",
+      "xcode",
+      "uikit",
+      "storyboards"
+    ]
+  }
+}{
+  "input": "Ios Developer with 2 years experience",
+  "output": {
+    "role": "Ios Developer",
+    "experience": "2 years",
+    "keywords": [
+      "Swift",
+      "xcode",
+      "uikit",
+      "storyboards"
+    ]
+  }
+}{
+  "input": "Ios Developer with 6 years experience",
+  "output": {
+    "role": "Ios Developer",
+    "experience": "6 years",
+    "keywords": [
+      "modular architecture",
+      "performance profiling",
+      "concurrency",
+      "framework development"
+    ]
+  }
+}{
+  "input": "Ios Developer with 7 years experience",
+  "output": {
+    "role": "Ios Developer",
+    "experience": "7 years",
+    "keywords": [
+      "modular architecture",
+      "performance profiling",
+      "concurrency",
+      "framework development"
+    ]
+  }
+}{
+  "input": "Android Developer with 3 years experience",
+  "output": {
+    "role": "Android Developer",
+    "experience": "3 years",
+    "keywords": [
+      "room database",
+      "coroutines",
+      "jetpack components",
+      "firebase"
+    ]
+  }
+}{
+  "input": "Android Developer with 4 years experience",
+  "output": {
+    "role": "Android Developer",
+    "experience": "4 years",
+    "keywords": [
+      "room database",
+      "coroutines",
+      "jetpack components",
+      "firebase"
+    ]
+  }
+}{
+  "input": "Android Developer with 2 years experience",
+  "output": {
+    "role": "Android Developer",
+    "experience": "2 years",
+    "keywords": [
+      "kotlin",
+      "android studio",
+      "xml layouts",
+      "retrofit"
+    ]
+  }
+}{
+  "input": "Android Developer with 1 years experience",
+  "output": {
+    "role": "Android Developer",
+    "experience": "1 years",
+    "keywords": [
+      "kotlin",
+      "android studio",
+      "xml layouts",
+      "retrofit"
+    ]
+  }
+}{
+  "input": "Android Developer with 6 years experience",
+  "output": {
+    "role": "Android Developer",
+    "experience": "6 years",
+    "keywords": [
+      "android architecture components",
+      "jetpack compose",
+      "modularization",
+      "performance tuning"
+    ]
+  }
+}{
+  "input": "Android Developer with 5 years experience",
+  "output": {
+    "role": "Android Developer",
+    "experience": "5 years",
+    "keywords": [
+      "room database",
+      "coroutines",
+      "jetpack components",
+      "firebase"
+    ]
+  }
+}{
+  "input": "Mobile Developer with 3 years experience",
+  "output": {
+    "role": "Mobile Developer",
+    "experience": "3 years",
+    "keywords": [
+      "flutter",
+      "react native",
+      "local databases",
+      "firebase"
+    ]
+  }
+}{
+  "input": "Mobile Developer with 5 years experience",
+  "output": {
+    "role": "Mobile Developer",
+    "experience": "5 years",
+    "keywords": [
+      "flutter",
+      "react native",
+      "local databases",
+      "firebase"
+    ]
+  }
+}{
+  "input": "Mobile Developer with 4 years experience",
+  "output": {
+    "role": "Mobile Developer",
+    "experience": "4 years",
+    "keywords": [
+      "flutter",
+      "react native",
+      "local databases",
+      "firebase"
+    ]
+  }
+}{
+  "input": "Mobile Developer with 2 years experience",
+  "output": {
+    "role": "Mobile Developer",
+    "experience": "2 years",
+    "keywords": [
+      "kotlin",
+      "swift",
+      "rest apis",
+      "ui layouts"
+    ]
+  }
+}{
+  "input": "Mobile Developer with 1 years experience",
+  "output": {
+    "role": "Mobile Developer",
+    "experience": "1 years",
+    "keywords": [
+      "kotlin",
+      "swift",
+      "rest apis",
+      "ui layouts"
+    ]
+  }
+}{
+  "input": "Mobile Developer with 6 years experience",
+  "output": {
+    "role": "Mobile Developer",
+    "experience": "6 years",
+    "keywords": [
+      "multi-platform optimization",
+      "app architecture",
+      "performance profiling",
+      "security hardening"
+    ]
+  }
+}{
+  "input": "React Native Developer with 1 years experience",
+  "output": {
+    "role": "React Native Developer",
+    "experience": "1 years",
+    "keywords": [
+      "JavaScript",
+      "react native basics",
+      "components",
+      "api usage"
+    ]
+  }
+}{
+  "input": "React Native Developer with 4 years experience",
+  "output": {
+    "role": "React Native Developer",
+    "experience": "4 years",
+    "keywords": [
+      "navigation",
+      "state management",
+      "typescript",
+      "local storage"
+    ]
+  }
+}{
+  "input": "React Native Developer with 5 years experience",
+  "output": {
+    "role": "React Native Developer",
+    "experience": "5 years",
+    "keywords": [
+      "navigation",
+      "state management",
+      "typescript",
+      "local storage"
+    ]
+  }
+}{
+  "input": "React Native Developer with 7 years experience",
+  "output": {
+    "role": "React Native Developer",
+    "experience": "7 years",
+    "keywords": [
+      "native modules",
+      "performance tuning",
+      "app architecture",
+      "multi-platform support"
+    ]
+  }
+}{
+  "input": "React Native Developer with 6 years experience",
+  "output": {
+    "role": "React Native Developer",
+    "experience": "6 years",
+    "keywords": [
+      "native modules",
+      "performance tuning",
+      "app architecture",
+      "multi-platform support"
+    ]
+  }
+}{
+  "input": "React Native Developer with 3 years experience",
+  "output": {
+    "role": "React Native Developer",
+    "experience": "3 years",
+    "keywords": [
+      "navigation",
+      "state management",
+      "typescript",
+      "local storage"
+    ]
+  }
+}{
+  "input": "React Native Developer with 2 years experience",
+  "output": {
+    "role": "React Native Developer",
+    "experience": "2 years",
+    "keywords": [
+      "JavaScript",
+      "react native basics",
+      "components",
+      "api usage"
+    ]
+  }
+}{
+  "input": "Flutter Developer with 4 years experience",
+  "output": {
+    "role": "Flutter Developer",
+    "experience": "4 years",
+    "keywords": [
+      "provider",
+      "bloc",
+      "api integration",
+      "firebase"
+    ]
+  }
+}{
+  "input": "Flutter Developer with 2 years experience",
+  "output": {
+    "role": "Flutter Developer",
+    "experience": "2 years",
+    "keywords": [
+      "Dart",
+      "flutter widgets",
+      "http client",
+      "stateful widgets"
+    ]
+  }
+}{
+  "input": "Flutter Developer with 5 years experience",
+  "output": {
+    "role": "Flutter Developer",
+    "experience": "5 years",
+    "keywords": [
+      "provider",
+      "bloc",
+      "api integration",
+      "firebase"
+    ]
+  }
+}{
+  "input": "Flutter Developer with 3 years experience",
+  "output": {
+    "role": "Flutter Developer",
+    "experience": "3 years",
+    "keywords": [
+      "provider",
+      "bloc",
+      "api integration",
+      "firebase"
+    ]
+  }
+}{
+  "input": "Flutter Developer with 1 years experience",
+  "output": {
+    "role": "Flutter Developer",
+    "experience": "1 years",
+    "keywords": [
+      "Dart",
+      "flutter widgets",
+      "http client",
+      "stateful widgets"
+    ]
+  }
+}{
+  "input": "Flutter Developer with 7 years experience",
+  "output": {
+    "role": "Flutter Developer",
+    "experience": "7 years",
+    "keywords": [
+      "custom renderers",
+      "app architecture",
+      "isolate optimization",
+      "advanced state management"
+    ]
+  }
+}{
+  "input": "Flutter Developer with 6 years experience",
+  "output": {
+    "role": "Flutter Developer",
+    "experience": "6 years",
+    "keywords": [
+      "custom renderers",
+      "app architecture",
+      "isolate optimization",
+      "advanced state management"
+    ]
+  }
+}{
+  "input": "Site Reliability Engineer with 2 years experience",
+  "output": {
+    "role": "Site Reliability Engineer",
+    "experience": "2 years",
+    "keywords": [
+      "Docker",
+      "linux",
+      "basic monitoring",
+      "bash"
+    ]
+  }
+}{
+  "input": "Site Reliability Engineer with 6 years experience",
+  "output": {
+    "role": "Site Reliability Engineer",
+    "experience": "6 years",
+    "keywords": [
+      "scalable systems",
+      "incident automation",
+      "observability design",
+      "chaos testing"
+    ]
+  }
+}{
+  "input": "Site Reliability Engineer with 5 years experience",
+  "output": {
+    "role": "Site Reliability Engineer",
+    "experience": "5 years",
+    "keywords": [
+      "Kubernetes",
+      "CI/CD",
+      "prometheus",
+      "grafana"
+    ]
+  }
+}{
+  "input": "Site Reliability Engineer with 4 years experience",
+  "output": {
+    "role": "Site Reliability Engineer",
+    "experience": "4 years",
+    "keywords": [
+      "Kubernetes",
+      "CI/CD",
+      "prometheus",
+      "grafana"
+    ]
+  }
+}{
+  "input": "Site Reliability Engineer with 1 years experience",
+  "output": {
+    "role": "Site Reliability Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "Docker",
+      "linux",
+      "basic monitoring",
+      "bash"
+    ]
+  }
+}{
+  "input": "Site Reliability Engineer with 7 years experience",
+  "output": {
+    "role": "Site Reliability Engineer",
+    "experience": "7 years",
+    "keywords": [
+      "scalable systems",
+      "incident automation",
+      "observability design",
+      "chaos testing"
+    ]
+  }
+}{
+  "input": "Site Reliability Engineer with 3 years experience",
+  "output": {
+    "role": "Site Reliability Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "CI/CD",
+      "Kubernetes",
+      "prometheus",
+      "grafana"
+    ]
+  }
+}{
+  "input": "Systems Engineer with 4 years experience",
+  "output": {
+    "role": "Systems Engineer",
+    "experience": "4 years",
+    "keywords": [
+      "Kubernetes",
+      "vmware",
+      "monitoring tools",
+      "load balancers"
+    ]
+  }
+}{
+  "input": "Systems Engineer with 2 years experience",
+  "output": {
+    "role": "Systems Engineer",
+    "experience": "2 years",
+    "keywords": [
+      "Docker",
+      "linux",
+      "bash",
+      "network basics"
+    ]
+  }
+}{
+  "input": "Systems Engineer with 3 years experience",
+  "output": {
+    "role": "Systems Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "Kubernetes",
+      "vmware",
+      "monitoring tools",
+      "load balancers"
+    ]
+  }
+}{
+  "input": "Systems Engineer with 1 years experience",
+  "output": {
+    "role": "Systems Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "Docker",
+      "linux",
+      "bash",
+      "network basics"
+    ]
+  }
+}{
+  "input": "Systems Engineer with 5 years experience",
+  "output": {
+    "role": "Systems Engineer",
+    "experience": "5 years",
+    "keywords": [
+      "Kubernetes",
+      "vmware",
+      "monitoring tools",
+      "load balancers"
+    ]
+  }
+}{
+  "input": "Systems Engineer with 6 years experience",
+  "output": {
+    "role": "Systems Engineer",
+    "experience": "6 years",
+    "keywords": [
+      "system design",
+      "cloud infra",
+      "scalable architectures",
+      "security hardening"
+    ]
+  }
+}{
+  "input": "Infrastructure Engineer with 1 years experience",
+  "output": {
+    "role": "Infrastructure Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "Docker",
+      "linux",
+      "bash scripting",
+      "network basics"
+    ]
+  }
+}{
+  "input": "Infrastructure Engineer with 4 years experience",
+  "output": {
+    "role": "Infrastructure Engineer",
+    "experience": "4 years",
+    "keywords": [
+      "Kubernetes",
+      "load balancers",
+      "terraform",
+      "monitoring tools"
+    ]
+  }
+}{
+  "input": "Infrastructure Engineer with 7 years experience",
+  "output": {
+    "role": "Infrastructure Engineer",
+    "experience": "7 years",
+    "keywords": [
+      "infrastructure design",
+      "multi-region networking",
+      "system scalability",
+      "cloud provisioning"
+    ]
+  }
+}{
+  "input": "Infrastructure Engineer with 3 years experience",
+  "output": {
+    "role": "Infrastructure Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "Kubernetes",
+      "load balancers",
+      "terraform",
+      "monitoring tools"
+    ]
+  }
+}{
+  "input": "Infrastructure Engineer with 5 years experience",
+  "output": {
+    "role": "Infrastructure Engineer",
+    "experience": "5 years",
+    "keywords": [
+      "Kubernetes",
+      "load balancers",
+      "terraform",
+      "monitoring tools"
+    ]
+  }
+}{
+  "input": "Infrastructure Engineer with 6 years experience",
+  "output": {
+    "role": "Infrastructure Engineer",
+    "experience": "6 years",
+    "keywords": [
+      "infrastructure design",
+      "multi-region networking",
+      "system scalability",
+      "cloud provisioning"
+    ]
+  }
+}{
+  "input": "Infrastructure Engineer with 2 years experience",
+  "output": {
+    "role": "Infrastructure Engineer",
+    "experience": "2 years",
+    "keywords": [
+      "Docker",
+      "linux",
+      "bash scripting",
+      "network basics"
+    ]
+  }
+}{
+  "input": "Kubernetes Engineer with 3 years experience",
+  "output": {
+    "role": "Kubernetes Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "helm charts",
+      "ingress",
+      "k8s monitoring",
+      "statefulsets"
+    ]
+  }
+}{
+  "input": "Kubernetes Engineer with 2 years experience",
+  "output": {
+    "role": "Kubernetes Engineer",
+    "experience": "2 years",
+    "keywords": [
+      "Docker",
+      "kubernetes basics",
+      "pods/services",
+      "yaml configs"
+    ]
+  }
+}{
+  "input": "Kubernetes Engineer with 4 years experience",
+  "output": {
+    "role": "Kubernetes Engineer",
+    "experience": "4 years",
+    "keywords": [
+      "helm charts",
+      "ingress",
+      "k8s monitoring",
+      "statefulsets"
+    ]
+  }
+}{
+  "input": "Kubernetes Engineer with 5 years experience",
+  "output": {
+    "role": "Kubernetes Engineer",
+    "experience": "5 years",
+    "keywords": [
+      "helm charts",
+      "ingress",
+      "k8s monitoring",
+      "statefulsets"
+    ]
+  }
+}{
+  "input": "Kubernetes Engineer with 1 years experience",
+  "output": {
+    "role": "Kubernetes Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "Docker",
+      "kubernetes basics",
+      "pods/services",
+      "yaml configs"
+    ]
+  }
+}{
+  "input": "Kubernetes Engineer with 6 years experience",
+  "output": {
+    "role": "Kubernetes Engineer",
+    "experience": "6 years",
+    "keywords": [
+      "cluster architecture",
+      "autoscaling",
+      "service mesh",
+      "advanced networking"
+    ]
+  }
+}{
+  "input": "Kubernetes Engineer with 7 years experience",
+  "output": {
+    "role": "Kubernetes Engineer",
+    "experience": "7 years",
+    "keywords": [
+      "cluster architecture",
+      "autoscaling",
+      "service mesh",
+      "advanced networking"
+    ]
+  }
+}{
+  "input": "Platform Engineer with 2 years experience",
+  "output": {
+    "role": "Platform Engineer",
+    "experience": "2 years",
+    "keywords": [
+      "Docker",
+      "linux",
+      "github actions",
+      "rest apis"
+    ]
+  }
+}{
+  "input": "Platform Engineer with 5 years experience",
+  "output": {
+    "role": "Platform Engineer",
+    "experience": "5 years",
+    "keywords": [
+      "Kubernetes",
+      "terraform",
+      "monitoring tools",
+      "network configs"
+    ]
+  }
+}{
+  "input": "Platform Engineer with 6 years experience",
+  "output": {
+    "role": "Platform Engineer",
+    "experience": "6 years",
+    "keywords": [
+      "platform architecture",
+      "scalable infra",
+      "multi-cloud design",
+      "advanced automation"
+    ]
+  }
+}{
+  "input": "Platform Engineer with 3 years experience",
+  "output": {
+    "role": "Platform Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "Kubernetes",
+      "terraform",
+      "monitoring tools",
+      "network configs"
+    ]
+  }
+}{
+  "input": "Platform Engineer with 1 years experience",
+  "output": {
+    "role": "Platform Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "Docker",
+      "linux",
+      "github actions",
+      "rest apis"
+    ]
+  }
+}{
+  "input": "Platform Engineer with 4 years experience",
+  "output": {
+    "role": "Platform Engineer",
+    "experience": "4 years",
+    "keywords": [
+      "Kubernetes",
+      "terraform",
+      "monitoring tools",
+      "network configs"
+    ]
+  }
+}{
+  "input": "Security Engineer with 4 years experience",
+  "output": {
+    "role": "Security Engineer",
+    "experience": "4 years",
+    "keywords": [
+      "ids/ips",
+      "threat detection",
+      "log analysis",
+      "network monitoring"
+    ]
+  }
+}{
+  "input": "Security Engineer with 3 years experience",
+  "output": {
+    "role": "Security Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "ids/ips",
+      "threat detection",
+      "log analysis",
+      "network monitoring"
+    ]
+  }
+}{
+  "input": "Security Engineer with 6 years experience",
+  "output": {
+    "role": "Security Engineer",
+    "experience": "6 years",
+    "keywords": [
+      "security design",
+      "siem systems",
+      "incident response",
+      "zero trust"
+    ]
+  }
+}{
+  "input": "Security Engineer with 2 years experience",
+  "output": {
+    "role": "Security Engineer",
+    "experience": "2 years",
+    "keywords": [
+      "linux",
+      "tcp/ip",
+      "firewalls",
+      "wireshark"
+    ]
+  }
+}{
+  "input": "Security Engineer with 1 years experience",
+  "output": {
+    "role": "Security Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "linux",
+      "tcp/ip",
+      "firewalls",
+      "wireshark"
+    ]
+  }
+}{
+  "input": "Security Engineer with 5 years experience",
+  "output": {
+    "role": "Security Engineer",
+    "experience": "5 years",
+    "keywords": [
+      "ids/ips",
+      "threat detection",
+      "log analysis",
+      "network monitoring"
+    ]
+  }
+}{
+  "input": "Cybersecurity Engineer with 3 years experience",
+  "output": {
+    "role": "Cybersecurity Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "ids/ips",
+      "penetration testing",
+      "log analysis",
+      "threat modeling"
+    ]
+  }
+}{
+  "input": "Cybersecurity Engineer with 4 years experience",
+  "output": {
+    "role": "Cybersecurity Engineer",
+    "experience": "4 years",
+    "keywords": [
+      "ids/ips",
+      "penetration testing",
+      "log analysis",
+      "threat modeling"
+    ]
+  }
+}{
+  "input": "Cybersecurity Engineer with 5 years experience",
+  "output": {
+    "role": "Cybersecurity Engineer",
+    "experience": "5 years",
+    "keywords": [
+      "ids/ips",
+      "penetration testing",
+      "log analysis",
+      "threat modeling"
+    ]
+  }
+}{
+  "input": "Cybersecurity Engineer with 6 years experience",
+  "output": {
+    "role": "Cybersecurity Engineer",
+    "experience": "6 years",
+    "keywords": [
+      "siem systems",
+      "zero trust",
+      "incident response",
+      "security automation"
+    ]
+  }
+}{
+  "input": "Cybersecurity Engineer with 1 years experience",
+  "output": {
+    "role": "Cybersecurity Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "wireshark",
+      "linux security",
+      "network scanning",
+      "firewall basics"
+    ]
+  }
+}{
+  "input": "Cybersecurity Engineer with 7 years experience",
+  "output": {
+    "role": "Cybersecurity Engineer",
+    "experience": "7 years",
+    "keywords": [
+      "siem systems",
+      "zero trust",
+      "incident response",
+      "security automation"
+    ]
+  }
+}{
+  "input": "Cybersecurity Engineer with 2 years experience",
+  "output": {
+    "role": "Cybersecurity Engineer",
+    "experience": "2 years",
+    "keywords": [
+      "wireshark",
+      "linux security",
+      "network scanning",
+      "firewall basics"
+    ]
+  }
+}{
+  "input": "Information Security Analyst with 5 years experience",
+  "output": {
+    "role": "Information Security Analyst",
+    "experience": "5 years",
+    "keywords": [
+      "ids/ips",
+      "malware analysis",
+      "incident triage",
+      "forensics tools"
+    ]
+  }
+}{
+  "input": "Information Security Analyst with 4 years experience",
+  "output": {
+    "role": "Information Security Analyst",
+    "experience": "4 years",
+    "keywords": [
+      "ids/ips",
+      "malware analysis",
+      "incident triage",
+      "forensics tools"
+    ]
+  }
+}{
+  "input": "Information Security Analyst with 3 years experience",
+  "output": {
+    "role": "Information Security Analyst",
+    "experience": "3 years",
+    "keywords": [
+      "ids/ips",
+      "malware analysis",
+      "incident triage",
+      "forensics tools"
+    ]
+  }
+}{
+  "input": "Information Security Analyst with 2 years experience",
+  "output": {
+    "role": "Information Security Analyst",
+    "experience": "2 years",
+    "keywords": [
+      "network basics",
+      "firewall rules",
+      "vulnerability scanning",
+      "log analysis"
+    ]
+  }
+}{
+  "input": "Information Security Analyst with 1 years experience",
+  "output": {
+    "role": "Information Security Analyst",
+    "experience": "1 years",
+    "keywords": [
+      "network basics",
+      "firewall rules",
+      "vulnerability scanning",
+      "log analysis"
+    ]
+  }
+}{
+  "input": "Information Security Analyst with 6 years experience",
+  "output": {
+    "role": "Information Security Analyst",
+    "experience": "6 years",
+    "keywords": [
+      "security architecture",
+      "threat hunting",
+      "siem management",
+      "zero trust design"
+    ]
+  }
+}{
+  "input": "Penetration Tester with 2 years experience",
+  "output": {
+    "role": "Penetration Tester",
+    "experience": "2 years",
+    "keywords": [
+      "nmap",
+      "burpsuite basics",
+      "linux",
+      "recon tools"
+    ]
+  }
+}{
+  "input": "Penetration Tester with 5 years experience",
+  "output": {
+    "role": "Penetration Tester",
+    "experience": "5 years",
+    "keywords": [
+      "metasploit",
+      "web exploitation",
+      "network attacks",
+      "password auditing"
+    ]
+  }
+}{
+  "input": "Penetration Tester with 4 years experience",
+  "output": {
+    "role": "Penetration Tester",
+    "experience": "4 years",
+    "keywords": [
+      "metasploit",
+      "web exploitation",
+      "network attacks",
+      "password auditing"
+    ]
+  }
+}{
+  "input": "Penetration Tester with 3 years experience",
+  "output": {
+    "role": "Penetration Tester",
+    "experience": "3 years",
+    "keywords": [
+      "metasploit",
+      "web exploitation",
+      "network attacks",
+      "password auditing"
+    ]
+  }
+}{
+  "input": "Penetration Tester with 1 years experience",
+  "output": {
+    "role": "Penetration Tester",
+    "experience": "1 years",
+    "keywords": [
+      "nmap",
+      "burpsuite basics",
+      "linux",
+      "recon tools"
+    ]
+  }
+}{
+  "input": "Penetration Tester with 6 years experience",
+  "output": {
+    "role": "Penetration Tester",
+    "experience": "6 years",
+    "keywords": [
+      "red teaming",
+      "post exploitation",
+      "exploit writing",
+      "advanced security testing"
+    ]
+  }
+}{
+  "input": "Penetration Tester with 7 years experience",
+  "output": {
+    "role": "Penetration Tester",
+    "experience": "7 years",
+    "keywords": [
+      "red teaming",
+      "post exploitation",
+      "exploit writing",
+      "advanced security testing"
+    ]
+  }
+}{
+  "input": "Database Administrator with 4 years experience",
+  "output": {
+    "role": "Database Administrator",
+    "experience": "4 years",
+    "keywords": [
+      "PostgreSQL",
+      "performance tuning",
+      "replication",
+      "monitoring tools"
+    ]
+  }
+}{
+  "input": "Database Administrator with 3 years experience",
+  "output": {
+    "role": "Database Administrator",
+    "experience": "3 years",
+    "keywords": [
+      "PostgreSQL",
+      "performance tuning",
+      "replication",
+      "monitoring tools"
+    ]
+  }
+}{
+  "input": "Database Administrator with 5 years experience",
+  "output": {
+    "role": "Database Administrator",
+    "experience": "5 years",
+    "keywords": [
+      "PostgreSQL",
+      "performance tuning",
+      "replication",
+      "monitoring tools"
+    ]
+  }
+}{
+  "input": "Database Administrator with 1 years experience",
+  "output": {
+    "role": "Database Administrator",
+    "experience": "1 years",
+    "keywords": [
+      "MySQL",
+      "backup procedures",
+      "sql queries",
+      "indexes"
+    ]
+  }
+}{
+  "input": "Database Administrator with 2 years experience",
+  "output": {
+    "role": "Database Administrator",
+    "experience": "2 years",
+    "keywords": [
+      "MySQL",
+      "backup procedures",
+      "sql queries",
+      "indexes"
+    ]
+  }
+}{
+  "input": "Database Administrator with 6 years experience",
+  "output": {
+    "role": "Database Administrator",
+    "experience": "6 years",
+    "keywords": [
+      "sharding",
+      "db security",
+      "disaster recovery",
+      "high availability"
+    ]
+  }
+}{
+  "input": "Database Administrator with 7 years experience",
+  "output": {
+    "role": "Database Administrator",
+    "experience": "7 years",
+    "keywords": [
+      "sharding",
+      "db security",
+      "disaster recovery",
+      "high availability"
+    ]
+  }
+}{
+  "input": "Database Engineer with 3 years experience",
+  "output": {
+    "role": "Database Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "PostgreSQL",
+      "query optimization",
+      "etl pipeline",
+      "indexing strategies"
+    ]
+  }
+}{
+  "input": "Database Engineer with 6 years experience",
+  "output": {
+    "role": "Database Engineer",
+    "experience": "6 years",
+    "keywords": [
+      "distributed databases",
+      "replication design",
+      "data modeling",
+      "scalable storage"
+    ]
+  }
+}{
+  "input": "Database Engineer with 4 years experience",
+  "output": {
+    "role": "Database Engineer",
+    "experience": "4 years",
+    "keywords": [
+      "PostgreSQL",
+      "query optimization",
+      "etl pipeline",
+      "indexing strategies"
+    ]
+  }
+}{
+  "input": "Database Engineer with 5 years experience",
+  "output": {
+    "role": "Database Engineer",
+    "experience": "5 years",
+    "keywords": [
+      "PostgreSQL",
+      "query optimization",
+      "etl pipeline",
+      "indexing strategies"
+    ]
+  }
+}{
+  "input": "Database Engineer with 1 years experience",
+  "output": {
+    "role": "Database Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "SQL",
+      "mysql basics",
+      "schema design",
+      "stored procedures"
+    ]
+  }
+}{
+  "input": "Database Engineer with 2 years experience",
+  "output": {
+    "role": "Database Engineer",
+    "experience": "2 years",
+    "keywords": [
+      "SQL",
+      "mysql basics",
+      "schema design",
+      "stored procedures"
+    ]
+  }
+}{
+  "input": "Sql Developer with 5 years experience",
+  "output": {
+    "role": "Sql Developer",
+    "experience": "5 years",
+    "keywords": [
+      "PostgreSQL",
+      "procedures",
+      "optimization",
+      "data modeling"
+    ]
+  }
+}{
+  "input": "Sql Developer with 4 years experience",
+  "output": {
+    "role": "Sql Developer",
+    "experience": "4 years",
+    "keywords": [
+      "PostgreSQL",
+      "procedures",
+      "optimization",
+      "data modeling"
+    ]
+  }
+}{
+  "input": "Sql Developer with 6 years experience",
+  "output": {
+    "role": "Sql Developer",
+    "experience": "6 years",
+    "keywords": [
+      "distributed sql",
+      "query tuning",
+      "warehouse design",
+      "pipeline optimization"
+    ]
+  }
+}{
+  "input": "Sql Developer with 2 years experience",
+  "output": {
+    "role": "Sql Developer",
+    "experience": "2 years",
+    "keywords": [
+      "MySQL",
+      "joins",
+      "indexes",
+      "queries"
+    ]
+  }
+}{
+  "input": "Sql Developer with 3 years experience",
+  "output": {
+    "role": "Sql Developer",
+    "experience": "3 years",
+    "keywords": [
+      "PostgreSQL",
+      "procedures",
+      "optimization",
+      "data modeling"
+    ]
+  }
+}{
+  "input": "Sql Developer with 1 years experience",
+  "output": {
+    "role": "Sql Developer",
+    "experience": "1 years",
+    "keywords": [
+      "MySQL",
+      "joins",
+      "indexes",
+      "queries"
+    ]
+  }
+}{
+  "input": "Sql Developer with 7 years experience",
+  "output": {
+    "role": "Sql Developer",
+    "experience": "7 years",
+    "keywords": [
+      "distributed sql",
+      "query tuning",
+      "warehouse design",
+      "pipeline optimization"
+    ]
+  }
+}{
+  "input": "Nosql Developer with 4 years experience",
+  "output": {
+    "role": "Nosql Developer",
+    "experience": "4 years",
+    "keywords": [
+      "replication",
+      "sharding basics",
+      "cassandra",
+      "indexing"
+    ]
+  }
+}{
+  "input": "Nosql Developer with 6 years experience",
+  "output": {
+    "role": "Nosql Developer",
+    "experience": "6 years",
+    "keywords": [
+      "distributed databases",
+      "performance tuning",
+      "cluster design",
+      "storage optimization"
+    ]
+  }
+}{
+  "input": "Nosql Developer with 3 years experience",
+  "output": {
+    "role": "Nosql Developer",
+    "experience": "3 years",
+    "keywords": [
+      "replication",
+      "sharding basics",
+      "cassandra",
+      "indexing"
+    ]
+  }
+}{
+  "input": "Nosql Developer with 5 years experience",
+  "output": {
+    "role": "Nosql Developer",
+    "experience": "5 years",
+    "keywords": [
+      "replication",
+      "sharding basics",
+      "cassandra",
+      "indexing"
+    ]
+  }
+}{
+  "input": "Nosql Developer with 2 years experience",
+  "output": {
+    "role": "Nosql Developer",
+    "experience": "2 years",
+    "keywords": [
+      "MongoDB",
+      "redis basics",
+      "document modeling",
+      "queries"
+    ]
+  }
+}{
+  "input": "Nosql Developer with 1 years experience",
+  "output": {
+    "role": "Nosql Developer",
+    "experience": "1 years",
+    "keywords": [
+      "MongoDB",
+      "redis basics",
+      "document modeling",
+      "queries"
+    ]
+  }
+}{
+  "input": "Nosql Developer with 7 years experience",
+  "output": {
+    "role": "Nosql Developer",
+    "experience": "7 years",
+    "keywords": [
+      "distributed databases",
+      "performance tuning",
+      "cluster design",
+      "storage optimization"
+    ]
+  }
+}{
+  "input": "Blockchain Developer with 4 years experience",
+  "output": {
+    "role": "Blockchain Developer",
+    "experience": "4 years",
+    "keywords": [
+      "nft standards",
+      "truffle",
+      "ganache",
+      "contract testing"
+    ]
+  }
+}{
+  "input": "Blockchain Developer with 3 years experience",
+  "output": {
+    "role": "Blockchain Developer",
+    "experience": "3 years",
+    "keywords": [
+      "nft standards",
+      "truffle",
+      "ganache",
+      "contract testing"
+    ]
+  }
+}{
+  "input": "Blockchain Developer with 5 years experience",
+  "output": {
+    "role": "Blockchain Developer",
+    "experience": "5 years",
+    "keywords": [
+      "nft standards",
+      "truffle",
+      "ganache",
+      "contract testing"
+    ]
+  }
+}{
+  "input": "Blockchain Developer with 2 years experience",
+  "output": {
+    "role": "Blockchain Developer",
+    "experience": "2 years",
+    "keywords": [
+      "Solidity",
+      "ethereum basics",
+      "web3.js",
+      "smart contracts"
+    ]
+  }
+}{
+  "input": "Blockchain Developer with 6 years experience",
+  "output": {
+    "role": "Blockchain Developer",
+    "experience": "6 years",
+    "keywords": [
+      "layer 2 scaling",
+      "tokenomics",
+      "protocol design",
+      "security auditing"
+    ]
+  }
+}{
+  "input": "Blockchain Developer with 7 years experience",
+  "output": {
+    "role": "Blockchain Developer",
+    "experience": "7 years",
+    "keywords": [
+      "layer 2 scaling",
+      "tokenomics",
+      "protocol design",
+      "security auditing"
+    ]
+  }
+}{
+  "input": "Blockchain Developer with 1 years experience",
+  "output": {
+    "role": "Blockchain Developer",
+    "experience": "1 years",
+    "keywords": [
+      "Solidity",
+      "ethereum basics",
+      "web3.js",
+      "smart contracts"
+    ]
+  }
+}{
+  "input": "Embedded Systems Engineer with 3 years experience",
+  "output": {
+    "role": "Embedded Systems Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "rtos",
+      "firmware debugging",
+      "bootloaders",
+      "embedded linux"
+    ]
+  }
+}{
+  "input": "Embedded Systems Engineer with 1 years experience",
+  "output": {
+    "role": "Embedded Systems Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "C",
+      "embedded c",
+      "microcontrollers",
+      "uart/spi/i2c"
+    ]
+  }
+}{
+  "input": "Embedded Systems Engineer with 5 years experience",
+  "output": {
+    "role": "Embedded Systems Engineer",
+    "experience": "5 years",
+    "keywords": [
+      "rtos",
+      "firmware debugging",
+      "bootloaders",
+      "embedded linux"
+    ]
+  }
+}{
+  "input": "Embedded Systems Engineer with 4 years experience",
+  "output": {
+    "role": "Embedded Systems Engineer",
+    "experience": "4 years",
+    "keywords": [
+      "rtos",
+      "firmware debugging",
+      "bootloaders",
+      "embedded linux"
+    ]
+  }
+}{
+  "input": "Embedded Systems Engineer with 2 years experience",
+  "output": {
+    "role": "Embedded Systems Engineer",
+    "experience": "2 years",
+    "keywords": [
+      "C",
+      "embedded c",
+      "microcontrollers",
+      "uart/spi/i2c"
+    ]
+  }
+}{
+  "input": "Embedded Systems Engineer with 6 years experience",
+  "output": {
+    "role": "Embedded Systems Engineer",
+    "experience": "6 years",
+    "keywords": [
+      "system architecture",
+      "board bring-up",
+      "performance tuning",
+      "hardware/software integration"
+    ]
+  }
+}{
+  "input": "Embedded Systems Engineer with 7 years experience",
+  "output": {
+    "role": "Embedded Systems Engineer",
+    "experience": "7 years",
+    "keywords": [
+      "system architecture",
+      "board bring-up",
+      "performance tuning",
+      "hardware/software integration"
+    ]
+  }
+}{
+  "input": "Qa Engineer with 2 years experience",
+  "output": {
+    "role": "Qa Engineer",
+    "experience": "2 years",
+    "keywords": [
+      "selenium",
+      "webdriver",
+      "test cases",
+      "pytest basics"
+    ]
+  }
+}{
+  "input": "Qa Engineer with 6 years experience",
+  "output": {
+    "role": "Qa Engineer",
+    "experience": "6 years",
+    "keywords": [
+      "performance testing",
+      "test architecture",
+      "load testing",
+      "ci automation"
+    ]
+  }
+}{
+  "input": "Qa Engineer with 3 years experience",
+  "output": {
+    "role": "Qa Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "Jenkins",
+      "api testing",
+      "automation frameworks",
+      "postman"
+    ]
+  }
+}{
+  "input": "Qa Engineer with 4 years experience",
+  "output": {
+    "role": "Qa Engineer",
+    "experience": "4 years",
+    "keywords": [
+      "Jenkins",
+      "api testing",
+      "automation frameworks",
+      "postman"
+    ]
+  }
+}{
+  "input": "Qa Engineer with 5 years experience",
+  "output": {
+    "role": "Qa Engineer",
+    "experience": "5 years",
+    "keywords": [
+      "Jenkins",
+      "api testing",
+      "automation frameworks",
+      "postman"
+    ]
+  }
+}{
+  "input": "Qa Engineer with 1 years experience",
+  "output": {
+    "role": "Qa Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "selenium",
+      "webdriver",
+      "test cases",
+      "pytest basics"
+    ]
+  }
+}{
+  "input": "Automation Engineer with 5 years experience",
+  "output": {
+    "role": "Automation Engineer",
+    "experience": "5 years",
+    "keywords": [
+      "Docker",
+      "jenkins pipelines",
+      "api automation",
+      "pytest"
+    ]
+  }
+}{
+  "input": "Automation Engineer with 3 years experience",
+  "output": {
+    "role": "Automation Engineer",
+    "experience": "3 years",
+    "keywords": [
+      "Docker",
+      "jenkins pipelines",
+      "api automation",
+      "pytest"
+    ]
+  }
+}{
+  "input": "Automation Engineer with 2 years experience",
+  "output": {
+    "role": "Automation Engineer",
+    "experience": "2 years",
+    "keywords": [
+      "Python",
+      "bash scripting",
+      "webdriver",
+      "selenium basics"
+    ]
+  }
+}{
+  "input": "Automation Engineer with 4 years experience",
+  "output": {
+    "role": "Automation Engineer",
+    "experience": "4 years",
+    "keywords": [
+      "Docker",
+      "jenkins pipelines",
+      "api automation",
+      "pytest"
+    ]
+  }
+}{
+  "input": "Automation Engineer with 1 years experience",
+  "output": {
+    "role": "Automation Engineer",
+    "experience": "1 years",
+    "keywords": [
+      "Python",
+      "bash scripting",
+      "webdriver",
+      "selenium basics"
+    ]
+  }
+}{
+  "input": "Automation Engineer with 6 years experience",
+  "output": {
+    "role": "Automation Engineer",
+    "experience": "6 years",
+    "keywords": [
+      "Kubernetes",
+      "automation frameworks",
+      "infrastructure automation",
+      "ci pipeline design"
+    ]
+  }
+}{
+  "input": "Technical Architect with 5 years experience",
+  "output": {
+    "role": "Technical Architect",
+    "experience": "5 years",
+    "keywords": [
+      "system design",
+      "microservices",
+      "api architecture",
+      "cloud basics"
+    ]
+  }
+}{
+  "input": "Technical Architect with 2 years experience",
+  "output": {
+    "role": "Technical Architect",
+    "experience": "2 years",
+    "keywords": [
+      "Python",
+      "basic design patterns",
+      "api concepts",
+      "databases"
+    ]
+  }
+}{
+  "input": "Technical Architect with 3 years experience",
+  "output": {
+    "role": "Technical Architect",
+    "experience": "3 years",
+    "keywords": [
+      "system design",
+      "microservices",
+      "api architecture",
+      "cloud basics"
+    ]
+  }
+}{
+  "input": "Technical Architect with 4 years experience",
+  "output": {
+    "role": "Technical Architect",
+    "experience": "4 years",
+    "keywords": [
+      "system design",
+      "microservices",
+      "api architecture",
+      "cloud basics"
+    ]
+  }
+}{
+  "input": "Technical Architect with 1 years experience",
+  "output": {
+    "role": "Technical Architect",
+    "experience": "1 years",
+    "keywords": [
+      "Python",
+      "basic design patterns",
+      "api concepts",
+      "databases"
+    ]
+  }
+}{
+  "input": "Technical Architect with 6 years experience",
+  "output": {
+    "role": "Technical Architect",
+    "experience": "6 years",
+    "keywords": [
+      "enterprise architecture",
+      "cloud systems",
+      "scalable design",
+      "integration design"
+    ]
+  }
+}{
+  "input": "Solutions Architect with 5 years experience",
+  "output": {
+    "role": "Solutions Architect",
+    "experience": "5 years",
+    "keywords": [
+      "system integration",
+      "distributed apps",
+      "rest apis",
+      "deployment"
+    ]
+  }
+}{
+  "input": "Solutions Architect with 6 years experience",
+  "output": {
+    "role": "Solutions Architect",
+    "experience": "6 years",
+    "keywords": [
+      "system design",
+      "microservices",
+      "cloud architecture",
+      "scalability planning"
+    ]
+  }
+}{
+  "input": "Solutions Architect with 3 years experience",
+  "output": {
+    "role": "Solutions Architect",
+    "experience": "3 years",
+    "keywords": [
+      "system integration",
+      "distributed apps",
+      "rest apis",
+      "deployment"
+    ]
+  }
+}{
+  "input": "Solutions Architect with 2 years experience",
+  "output": {
+    "role": "Solutions Architect",
+    "experience": "2 years",
+    "keywords": [
+      "Python",
+      "api basics",
+      "databases",
+      "cloud fundamentals"
+    ]
+  }
+}{
+  "input": "Solutions Architect with 4 years experience",
+  "output": {
+    "role": "Solutions Architect",
+    "experience": "4 years",
+    "keywords": [
+      "system integration",
+      "distributed apps",
+      "rest apis",
+      "deployment"
+    ]
+  }
+}{
+  "input": "Solutions Architect with 7 years experience",
+  "output": {
+    "role": "Solutions Architect",
+    "experience": "7 years",
+    "keywords": [
+      "system design",
+      "microservices",
+      "cloud architecture",
+      "scalability planning"
+    ]
+  }
+}
