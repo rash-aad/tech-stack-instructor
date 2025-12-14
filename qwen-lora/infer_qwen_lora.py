@@ -42,7 +42,7 @@ def infer(prompt: str):
     )
     model = model.to("cuda")
 
-    # Strict output format
+   
     clean_prompt = f"""
 Return output ONLY in this exact format:
 
@@ -63,7 +63,7 @@ INPUT: {prompt}
     output_ids = model.generate(
         **encoded,
         max_new_tokens=120,
-        temperature=0.01,   # <--- FIXED (must be > 0)
+        temperature=0.01,   
         top_p=0.9
     )
 

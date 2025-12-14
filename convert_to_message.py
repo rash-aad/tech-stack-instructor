@@ -1,7 +1,7 @@
 import json
 
-INPUT_PATH = "final_lora_dataset.jsonl"      # your curated dataset
-OUTPUT_PATH = "lora_messages_dataset.jsonl"  # new file for LoRA training
+INPUT_PATH = "final_lora_dataset.jsonl"      
+OUTPUT_PATH = "lora_messages_dataset.jsonl" 
 
 
 def build_assistant_text(output_obj):
@@ -16,7 +16,7 @@ def build_assistant_text(output_obj):
     experience = output_obj.get("experience", "")
     keywords = output_obj.get("keywords", [])
 
-    # join keywords as comma-separated string
+    
     kw_str = ", ".join(keywords)
 
     text = (
@@ -57,7 +57,7 @@ def convert_dataset(input_path=INPUT_PATH, output_path=OUTPUT_PATH):
             outfile.write(json.dumps(chat_example) + "\n")
             count_out += 1
 
-    print(f"Done ✅ Converted {count_in} examples → {count_out} chat-style examples.")
+    print(f"Done Converted {count_in} examples → {count_out} chat-style examples.")
     print(f"Saved to: {output_path}")
 
 
